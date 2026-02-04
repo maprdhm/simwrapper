@@ -34,9 +34,6 @@ layout:
     shapes:
       join: linkId
       file: analysis/network/network.avro
-  warnings:
-  - type: text
-    file: analysis/general/status.md
   config:
   - type: xml
     height: 6.0
