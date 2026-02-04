@@ -1,0 +1,10 @@
+info,value
+JVM,"21.0.7; Oracle Corporation; mixed mode, sharing; 64-bit"
+OS,Linux; 6.14.0-37-generic; amd64
+CPU cores,22
+max. Memory,15944.0MB (16718495744B)
+MATSim-Build,r7f2ea0d07d20e164b577066595eddc23e3659473 ({2025-04-11 08:55:36})
+Command,org.matsim.project.RunMatsimToulouse
+Start,2026-02-01 15:19:38
+End,2026-02-02 10:34:54
+Duration,19 hours 15 minutes 16 seconds

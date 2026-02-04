@@ -1,0 +1,709 @@
+2026-02-01T15:19:44,084  WARN SpeedyALTData:141 Network does not contain any nodes!
+2026-02-01T15:19:46,378  WARN PlansTranslatorBasedOnEvents:97 found 0 out of 0 (NaN%)
+2026-02-01T15:19:46,378  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T15:20:09,369  WARN QueueWithBuffer:504 Link 169523 too small: enlarge storage capacity from: 1.2364415486166727 Vehicles to: 1.8544768566927161 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2026-02-01T15:20:09,442  WARN QueueWithBuffer:504 Link 72540 too small: enlarge storage capacity from: 1.3194243999801323 Vehicles to: 1.9789386863102014 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2026-02-01T15:20:09,459  WARN QueueWithBuffer:504 Link 82639 too small: enlarge storage capacity from: 0.7957676379422827 Vehicles to: 1.9894190948557071 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2026-02-01T15:20:09,468  WARN QueueWithBuffer:504 Link 98134 too small: enlarge storage capacity from: 2.425404163344469 Vehicles to: 3.6377424343922016 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2026-02-01T15:20:09,469  WARN QueueWithBuffer:504 Link pt_10058_stop_point:SP_4007 too small: enlarge storage capacity from: 2.9590134936503723 Vehicles to: 61.63994983960431 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2026-02-01T15:20:09,469  WARN QueueWithBuffer:504 Link pt_101291_stop_point:SP_181 too small: enlarge storage capacity from: 8.20198074210436 Vehicles to: 170.85751133396144 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2026-02-01T15:20:09,469  WARN QueueWithBuffer:504 Link pt_101925_stop_point:SP_1227 too small: enlarge storage capacity from: 13.39625555034892 Vehicles to: 279.06074843320596 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2026-02-01T15:20:09,470  WARN QueueWithBuffer:504 Link pt_101925_stop_point:SP_2816 too small: enlarge storage capacity from: 13.917197710293463 Vehicles to: 289.9126248025506 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2026-02-01T15:20:09,470  WARN QueueWithBuffer:504 Link pt_101925_stop_point:SP_3534 too small: enlarge storage capacity from: 12.519976901679842 Vehicles to: 260.80676883311816 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2026-02-01T15:20:09,470  WARN QueueWithBuffer:504 Link pt_103296_17666 too small: enlarge storage capacity from: 5.278280366151936 Vehicles to: 21.9906355754805 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2026-02-01T15:20:09,470  WARN QueueWithBuffer:504 Link pt_103296_69952 too small: enlarge storage capacity from: 9.586196705756825 Vehicles to: 28.527494303828117 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2026-02-01T15:20:09,470  WARN QueueWithBuffer:507 Additional warnings of this type are suppressed.
+2026-02-01T15:20:09,923  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T15:24:11,380  WARN CharyparNagelActivityScoring:271 The first and the last activity do not have the same type. 
+2026-02-01T15:24:11,386  WARN CharyparNagelActivityScoring:272 Will score the first activity from midnight to its end, and the last activity from its start to midnight.
+2026-02-01T15:24:11,386  WARN CharyparNagelActivityScoring:273 Because of the nonlinear function, this is not the same as scoring from start to end.
+2026-02-01T15:24:11,388  WARN CharyparNagelActivityScoring:274 first activity: act [type=home][coord=[x=575729.58 | y=6277005.56]][linkId=111343][startTime=undefined][endTime=08:21:10][duration=undefined][facilityId=home_453497]
+2026-02-01T15:24:11,388  WARN CharyparNagelActivityScoring:275 last activity: act [type=leisure][coord=[x=580550.0 | y=6286050.0]][linkId=165742][startTime=20:21:31][endTime=undefined][duration=undefined][facilityId=sec_30534]
+2026-02-01T15:24:11,388  WARN CharyparNagelActivityScoring:276 This may also happen when plans are not completed when the simulation ends.
+2026-02-01T15:24:11,388  WARN CharyparNagelActivityScoring:278 Additional warnings of this type are suppressed.
+2026-02-01T15:24:36,769  WARN ExpBetaPlanChanger:102 Would make sense to revise this once more.  See comments in code.  kai, nov08
+2026-02-01T15:25:54,070  WARN PlansTranslatorBasedOnEvents:97 found 81585 out of 575032 (14.187906064358158%)
+2026-02-01T15:25:54,070  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T15:26:23,885  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T15:31:23,481  WARN PlansTranslatorBasedOnEvents:97 found 230301 out of 1150064 (20.02505947495096%)
+2026-02-01T15:31:23,488  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T15:31:28,785  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T15:36:27,365  WARN PlansTranslatorBasedOnEvents:97 found 383469 out of 1725096 (22.228849872702735%)
+2026-02-01T15:36:27,372  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T15:36:32,669  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T15:42:08,052  WARN PlansTranslatorBasedOnEvents:97 found 537262 out of 2300128 (23.357917472418926%)
+2026-02-01T15:42:08,052  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T15:42:13,511  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T15:47:27,700  WARN PlansTranslatorBasedOnEvents:97 found 691338 out of 2875160 (24.04520096272903%)
+2026-02-01T15:47:27,700  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T15:47:30,937  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T15:52:37,971  WARN PlansTranslatorBasedOnEvents:97 found 845351 out of 3450192 (24.501563970932633%)
+2026-02-01T15:52:37,971  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T15:52:41,222  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T15:57:58,630  WARN PlansTranslatorBasedOnEvents:97 found 999567 out of 4025224 (24.83258074581688%)
+2026-02-01T15:57:58,630  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T15:58:02,201  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T16:03:53,849  WARN PlansTranslatorBasedOnEvents:97 found 1153507 out of 4600256 (25.074843660874524%)
+2026-02-01T16:03:53,849  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T16:03:57,335  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T16:09:20,530  WARN PlansTranslatorBasedOnEvents:97 found 1307502 out of 5175288 (25.26433311537445%)
+2026-02-01T16:09:20,530  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T16:09:24,378  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T16:14:41,759  WARN PlansTranslatorBasedOnEvents:97 found 1461097 out of 5750320 (25.408968544359272%)
+2026-02-01T16:14:41,759  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T16:15:36,589  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T16:23:03,063  WARN PlansTranslatorBasedOnEvents:97 found 1614797 out of 6325352 (25.528966609289096%)
+2026-02-01T16:23:03,063  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T16:23:07,229  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T16:28:29,697  WARN PlansTranslatorBasedOnEvents:97 found 1767868 out of 6900384 (25.61984956199539%)
+2026-02-01T16:28:29,697  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T16:28:34,141  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T16:33:50,638  WARN PlansTranslatorBasedOnEvents:97 found 1920809 out of 7475416 (25.69501148832386%)
+2026-02-01T16:33:50,638  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T16:33:55,113  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T16:39:17,165  WARN PlansTranslatorBasedOnEvents:97 found 2074326 out of 8050448 (25.76659087792381%)
+2026-02-01T16:39:17,165  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T16:39:21,887  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T16:44:51,121  WARN PlansTranslatorBasedOnEvents:97 found 2227228 out of 8625480 (25.82149631092994%)
+2026-02-01T16:44:51,121  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T16:44:55,942  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T16:50:16,695  WARN PlansTranslatorBasedOnEvents:97 found 2381129 out of 9200512 (25.88039665618609%)
+2026-02-01T16:50:16,695  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T16:50:21,404  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T16:55:34,241  WARN PlansTranslatorBasedOnEvents:97 found 2533892 out of 9775544 (25.92072625318857%)
+2026-02-01T16:55:34,241  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T16:55:39,436  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T17:00:51,103  WARN PlansTranslatorBasedOnEvents:97 found 2687306 out of 10350576 (25.962864288905273%)
+2026-02-01T17:00:51,103  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T17:00:56,039  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T17:06:05,514  WARN PlansTranslatorBasedOnEvents:97 found 2840063 out of 10925608 (25.994553346596362%)
+2026-02-01T17:06:05,514  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T17:06:10,722  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T17:11:26,106  WARN PlansTranslatorBasedOnEvents:97 found 2993390 out of 11500640 (26.028029744431613%)
+2026-02-01T17:11:26,106  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T17:12:39,054  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T17:20:18,780  WARN PlansTranslatorBasedOnEvents:97 found 3146305 out of 12075672 (26.05490609549514%)
+2026-02-01T17:20:18,780  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T17:20:24,067  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T17:25:52,901  WARN PlansTranslatorBasedOnEvents:97 found 3299461 out of 12650704 (26.08124417423726%)
+2026-02-01T17:25:52,901  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T17:25:58,208  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T17:31:19,553  WARN PlansTranslatorBasedOnEvents:97 found 3452418 out of 13225736 (26.10378734310136%)
+2026-02-01T17:31:19,553  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T17:31:24,831  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T17:36:50,141  WARN PlansTranslatorBasedOnEvents:97 found 3604914 out of 13800768 (26.121111520750148%)
+2026-02-01T17:36:50,141  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T17:36:55,496  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T17:42:22,955  WARN PlansTranslatorBasedOnEvents:97 found 3757251 out of 14375800 (26.135943738783233%)
+2026-02-01T17:42:22,955  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T17:42:28,733  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T17:47:50,652  WARN PlansTranslatorBasedOnEvents:97 found 3910395 out of 14950832 (26.155032709885308%)
+2026-02-01T17:47:50,652  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T17:47:56,559  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T17:53:09,923  WARN PlansTranslatorBasedOnEvents:97 found 4062897 out of 15525864 (26.16857264755121%)
+2026-02-01T17:53:09,923  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T17:53:15,531  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T17:58:46,258  WARN PlansTranslatorBasedOnEvents:97 found 4215176 out of 16100896 (26.179760430723857%)
+2026-02-01T17:58:46,258  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T17:58:51,887  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T18:04:12,612  WARN PlansTranslatorBasedOnEvents:97 found 4368221 out of 16675928 (26.1947700901563%)
+2026-02-01T18:04:12,612  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T18:04:18,198  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T18:09:31,012  WARN PlansTranslatorBasedOnEvents:97 found 4521350 out of 17250960 (26.209266035049644%)
+2026-02-01T18:09:31,012  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T18:10:51,953  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T18:18:25,592  WARN PlansTranslatorBasedOnEvents:97 found 4674361 out of 17825992 (26.22216480294617%)
+2026-02-01T18:18:25,592  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T18:18:31,215  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T18:23:53,794  WARN PlansTranslatorBasedOnEvents:97 found 4826811 out of 18401024 (26.23120865447488%)
+2026-02-01T18:23:53,794  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T18:23:59,616  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T18:29:21,010  WARN PlansTranslatorBasedOnEvents:97 found 4979350 out of 18976056 (26.240173405896357%)
+2026-02-01T18:29:21,010  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T18:29:26,596  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T18:34:40,700  WARN PlansTranslatorBasedOnEvents:97 found 5131943 out of 19551088 (26.24888701846158%)
+2026-02-01T18:34:40,700  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T18:34:46,266  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T18:40:07,377  WARN PlansTranslatorBasedOnEvents:97 found 5283778 out of 20126120 (26.253336460281464%)
+2026-02-01T18:40:07,377  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T18:40:13,364  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T18:45:32,984  WARN PlansTranslatorBasedOnEvents:97 found 5435723 out of 20701152 (26.258070082283343%)
+2026-02-01T18:45:32,984  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T18:45:38,604  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T18:51:06,936  WARN PlansTranslatorBasedOnEvents:97 found 5587826 out of 21276184 (26.263290447196734%)
+2026-02-01T18:51:06,936  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T18:51:12,523  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T18:56:36,887  WARN PlansTranslatorBasedOnEvents:97 found 5739435 out of 21851216 (26.26597531231214%)
+2026-02-01T18:56:36,887  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T18:56:42,920  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T19:02:10,446  WARN PlansTranslatorBasedOnEvents:97 found 5891344 out of 22426248 (26.269860210232224%)
+2026-02-01T19:02:10,446  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T19:02:15,991  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T19:07:29,853  WARN PlansTranslatorBasedOnEvents:97 found 6043083 out of 23001280 (26.27281177395345%)
+2026-02-01T19:07:29,853  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T19:08:52,218  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T19:16:39,845  WARN PlansTranslatorBasedOnEvents:97 found 6194861 out of 23576312 (26.27578477923095%)
+2026-02-01T19:16:39,845  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T19:16:45,757  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T19:22:09,841  WARN PlansTranslatorBasedOnEvents:97 found 6346681 out of 24151344 (26.278790116193946%)
+2026-02-01T19:22:09,841  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T19:22:15,711  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T19:27:26,878  WARN PlansTranslatorBasedOnEvents:97 found 6498129 out of 24726376 (26.280151203718653%)
+2026-02-01T19:27:26,878  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T19:27:32,561  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T19:32:59,497  WARN PlansTranslatorBasedOnEvents:97 found 6650289 out of 25301408 (26.28426449626835%)
+2026-02-01T19:32:59,497  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T19:33:05,398  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T19:38:23,496  WARN PlansTranslatorBasedOnEvents:97 found 6801648 out of 25876440 (26.28509949591211%)
+2026-02-01T19:38:23,496  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T19:38:29,931  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T19:43:57,824  WARN PlansTranslatorBasedOnEvents:97 found 6953716 out of 26451472 (26.28857857135512%)
+2026-02-01T19:43:57,824  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T19:44:03,809  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T19:49:32,013  WARN PlansTranslatorBasedOnEvents:97 found 7105172 out of 27026504 (26.289645157213084%)
+2026-02-01T19:49:32,013  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T19:49:38,362  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T19:54:57,680  WARN PlansTranslatorBasedOnEvents:97 found 7256161 out of 27601536 (26.28897536716797%)
+2026-02-01T19:54:57,680  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T19:55:03,471  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T20:00:22,719  WARN PlansTranslatorBasedOnEvents:97 found 7408189 out of 28176568 (26.292020376647717%)
+2026-02-01T20:00:22,719  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T20:00:28,625  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T20:05:56,586  WARN PlansTranslatorBasedOnEvents:97 found 7559834 out of 28751600 (26.293611485969475%)
+2026-02-01T20:05:56,586  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T20:07:19,764  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T20:15:32,796  WARN PlansTranslatorBasedOnEvents:97 found 7711888 out of 29326632 (26.296534835640177%)
+2026-02-01T20:15:32,796  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T20:15:38,302  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T20:21:04,330  WARN PlansTranslatorBasedOnEvents:97 found 7862739 out of 29901664 (26.295322561312975%)
+2026-02-01T20:21:04,330  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T20:21:10,305  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T20:26:32,402  WARN PlansTranslatorBasedOnEvents:97 found 8014543 out of 30476696 (26.29728301256803%)
+2026-02-01T20:26:32,402  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T20:26:38,100  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T20:32:19,852  WARN PlansTranslatorBasedOnEvents:97 found 8165780 out of 31051728 (26.297344869180872%)
+2026-02-01T20:32:19,852  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T20:32:25,312  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T20:37:57,080  WARN PlansTranslatorBasedOnEvents:97 found 8317109 out of 31626760 (26.297695369364423%)
+2026-02-01T20:37:57,080  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T20:38:02,904  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T20:43:22,320  WARN PlansTranslatorBasedOnEvents:97 found 8468639 out of 32201792 (26.298657540549296%)
+2026-02-01T20:43:22,320  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T20:43:28,000  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T20:48:54,899  WARN PlansTranslatorBasedOnEvents:97 found 8619856 out of 32776824 (26.298631008300255%)
+2026-02-01T20:48:54,899  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T20:49:00,317  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T20:54:21,536  WARN PlansTranslatorBasedOnEvents:97 found 8771399 out of 33351856 (26.299582847803133%)
+2026-02-01T20:54:21,536  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T20:54:27,338  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T20:59:53,776  WARN PlansTranslatorBasedOnEvents:97 found 8922749 out of 33926888 (26.299933551229337%)
+2026-02-01T20:59:53,776  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T20:59:59,486  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T21:05:13,661  WARN PlansTranslatorBasedOnEvents:97 found 9073996 out of 34501920 (26.29997403043077%)
+2026-02-01T21:05:13,661  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T21:06:39,851  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T21:14:16,144  WARN PlansTranslatorBasedOnEvents:97 found 9225791 out of 35076952 (26.301575461858828%)
+2026-02-01T21:14:16,144  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T21:14:21,919  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T21:19:50,971  WARN PlansTranslatorBasedOnEvents:97 found 9376859 out of 35651984 (26.301086077004857%)
+2026-02-01T21:19:50,971  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T21:19:56,885  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T21:25:23,161  WARN PlansTranslatorBasedOnEvents:97 found 9528301 out of 36227016 (26.30164460688675%)
+2026-02-01T21:25:23,161  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T21:25:29,075  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T21:30:57,230  WARN PlansTranslatorBasedOnEvents:97 found 9679701 out of 36802048 (26.302071558626302%)
+2026-02-01T21:30:57,230  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T21:31:03,155  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T21:36:25,297  WARN PlansTranslatorBasedOnEvents:97 found 9830759 out of 37377080 (26.301570374143726%)
+2026-02-01T21:36:25,297  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T21:36:31,045  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T21:41:50,939  WARN PlansTranslatorBasedOnEvents:97 found 9981531 out of 37952112 (26.300330795819743%)
+2026-02-01T21:41:50,939  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T21:41:56,776  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T21:47:26,344  WARN PlansTranslatorBasedOnEvents:97 found 10132763 out of 38527144 (26.300322183237874%)
+2026-02-01T21:47:26,344  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T21:47:31,877  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T21:53:13,732  WARN PlansTranslatorBasedOnEvents:97 found 10283389 out of 39102176 (26.29876403809343%)
+2026-02-01T21:53:13,732  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T21:53:19,724  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T21:58:40,440  WARN PlansTranslatorBasedOnEvents:97 found 10434239 out of 39677208 (26.29781561242918%)
+2026-02-01T21:58:40,440  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T21:58:46,327  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T22:04:20,772  WARN PlansTranslatorBasedOnEvents:97 found 10585632 out of 40252240 (26.29824327788963%)
+2026-02-01T22:04:20,773  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T22:05:43,804  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T22:13:40,240  WARN PlansTranslatorBasedOnEvents:97 found 10736069 out of 40827272 (26.29631732436103%)
+2026-02-01T22:13:40,240  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T22:13:45,872  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T22:19:19,718  WARN PlansTranslatorBasedOnEvents:97 found 10886745 out of 41402304 (26.295022132101632%)
+2026-02-01T22:19:19,718  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T22:19:25,616  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T22:24:46,412  WARN PlansTranslatorBasedOnEvents:97 found 11037673 out of 41977336 (26.294362748507908%)
+2026-02-01T22:24:46,412  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T22:24:52,043  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T22:30:25,100  WARN PlansTranslatorBasedOnEvents:97 found 11188609 out of 42552368 (26.293739986456217%)
+2026-02-01T22:30:25,100  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T22:30:30,704  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T22:35:56,995  WARN PlansTranslatorBasedOnEvents:97 found 11339519 out of 43127400 (26.293073544892575%)
+2026-02-01T22:35:56,995  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T22:36:02,826  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T22:41:34,210  WARN PlansTranslatorBasedOnEvents:97 found 11490498 out of 43702432 (26.29258252721496%)
+2026-02-01T22:41:34,210  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T22:41:40,311  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T22:47:04,778  WARN PlansTranslatorBasedOnEvents:97 found 11641236 out of 44277464 (26.29155996829448%)
+2026-02-01T22:47:04,778  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T22:47:10,669  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T22:52:36,290  WARN PlansTranslatorBasedOnEvents:97 found 11791594 out of 44852496 (26.289716407309864%)
+2026-02-01T22:52:36,290  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T22:52:41,940  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T22:58:15,762  WARN PlansTranslatorBasedOnEvents:97 found 11942414 out of 45427528 (26.288936523246434%)
+2026-02-01T22:58:15,762  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T22:58:21,595  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T23:03:53,256  WARN PlansTranslatorBasedOnEvents:97 found 12093451 out of 46002560 (26.288647849163176%)
+2026-02-01T23:03:53,256  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T23:05:16,222  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T23:13:12,644  WARN PlansTranslatorBasedOnEvents:97 found 12244425 out of 46577592 (26.28823104466199%)
+2026-02-01T23:13:12,644  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T23:13:18,305  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T23:18:54,673  WARN PlansTranslatorBasedOnEvents:97 found 12395225 out of 47152624 (26.287455391666008%)
+2026-02-01T23:18:54,673  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T23:19:00,392  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T23:24:38,026  WARN PlansTranslatorBasedOnEvents:97 found 12546140 out of 47727656 (26.28693937954967%)
+2026-02-01T23:24:38,026  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T23:24:44,027  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T23:30:16,745  WARN PlansTranslatorBasedOnEvents:97 found 12697281 out of 48302688 (26.28690353630009%)
+2026-02-01T23:30:16,745  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T23:30:22,340  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T23:35:54,395  WARN PlansTranslatorBasedOnEvents:97 found 12847922 out of 48877720 (26.28584557544828%)
+2026-02-01T23:35:54,395  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T23:35:59,943  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T23:41:27,171  WARN PlansTranslatorBasedOnEvents:97 found 12998913 out of 49452752 (26.285519964591657%)
+2026-02-01T23:41:27,171  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T23:41:33,003  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T23:47:05,013  WARN PlansTranslatorBasedOnEvents:97 found 13149823 out of 50027784 (26.285039929012246%)
+2026-02-01T23:47:05,014  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T23:47:10,888  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T23:52:33,410  WARN PlansTranslatorBasedOnEvents:97 found 13300896 out of 50602816 (26.28489291979324%)
+2026-02-01T23:52:33,410  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T23:52:39,293  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-01T23:58:03,395  WARN PlansTranslatorBasedOnEvents:97 found 13452173 out of 51177848 (26.285147824113277%)
+2026-02-01T23:58:03,395  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-01T23:58:08,931  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T00:03:36,333  WARN PlansTranslatorBasedOnEvents:97 found 13603413 out of 51752880 (26.285325570287103%)
+2026-02-02T00:03:36,333  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T00:04:59,670  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T00:12:45,914  WARN PlansTranslatorBasedOnEvents:97 found 13754522 out of 52327912 (26.28524906554651%)
+2026-02-02T00:12:45,914  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T00:12:51,650  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T00:18:25,734  WARN PlansTranslatorBasedOnEvents:97 found 13905262 out of 52902944 (26.284476720236967%)
+2026-02-02T00:18:25,734  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T00:18:31,196  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T00:24:19,157  WARN PlansTranslatorBasedOnEvents:97 found 14055967 out of 53477976 (26.283655537000875%)
+2026-02-02T00:24:19,157  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T00:24:24,692  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T00:30:05,373  WARN PlansTranslatorBasedOnEvents:97 found 14207449 out of 54053008 (26.284289303566602%)
+2026-02-02T00:30:05,373  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T00:30:11,282  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T00:35:44,679  WARN PlansTranslatorBasedOnEvents:97 found 14357574 out of 54628040 (26.282425655396022%)
+2026-02-02T00:35:44,679  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T00:35:50,341  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T00:41:13,498  WARN PlansTranslatorBasedOnEvents:97 found 14508494 out of 55203072 (26.282040970473528%)
+2026-02-02T00:41:13,498  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T00:41:19,165  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T00:46:51,991  WARN PlansTranslatorBasedOnEvents:97 found 14659750 out of 55778104 (26.282266604114046%)
+2026-02-02T00:46:51,991  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T00:46:57,834  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T00:52:32,727  WARN PlansTranslatorBasedOnEvents:97 found 14810759 out of 56353136 (26.28204932552467%)
+2026-02-02T00:52:32,727  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T00:52:38,262  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T00:58:19,683  WARN PlansTranslatorBasedOnEvents:97 found 14961844 out of 56928168 (26.28196993797517%)
+2026-02-02T00:58:19,683  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T00:58:25,484  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T01:04:02,373  WARN PlansTranslatorBasedOnEvents:97 found 15113082 out of 57503200 (26.282158210325687%)
+2026-02-02T01:04:02,373  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T01:05:24,862  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T01:13:38,027  WARN PlansTranslatorBasedOnEvents:97 found 15263737 out of 58078232 (26.281338936075052%)
+2026-02-02T01:13:38,027  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T01:13:43,857  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T01:19:13,236  WARN PlansTranslatorBasedOnEvents:97 found 15414542 out of 58653264 (26.280791466268614%)
+2026-02-02T01:19:13,236  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T01:19:18,777  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T01:24:56,714  WARN PlansTranslatorBasedOnEvents:97 found 15565460 out of 59228296 (26.280445414131112%)
+2026-02-02T01:24:56,714  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T01:25:02,548  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T01:30:34,525  WARN PlansTranslatorBasedOnEvents:97 found 15716686 out of 59803328 (26.280621038347565%)
+2026-02-02T01:30:34,525  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T01:30:40,257  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T01:36:17,796  WARN PlansTranslatorBasedOnEvents:97 found 15867493 out of 60378360 (26.280099360101865%)
+2026-02-02T01:36:17,796  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T01:36:23,262  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T01:41:56,327  WARN PlansTranslatorBasedOnEvents:97 found 16018999 out of 60953392 (26.280734302694754%)
+2026-02-02T01:41:56,327  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T01:42:02,469  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T01:47:47,553  WARN PlansTranslatorBasedOnEvents:97 found 16170301 out of 61528424 (26.28102582312201%)
+2026-02-02T01:47:47,553  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T01:47:53,328  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T01:53:37,487  WARN PlansTranslatorBasedOnEvents:97 found 16321302 out of 62103456 (26.28082726990266%)
+2026-02-02T01:53:37,487  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T01:53:43,035  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T01:59:10,525  WARN PlansTranslatorBasedOnEvents:97 found 16471957 out of 62678488 (26.28008033633485%)
+2026-02-02T01:59:10,525  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T01:59:16,247  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T02:04:45,447  WARN PlansTranslatorBasedOnEvents:97 found 16622843 out of 63253520 (26.279712180444662%)
+2026-02-02T02:04:45,447  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T02:06:08,521  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T02:14:00,980  WARN PlansTranslatorBasedOnEvents:97 found 16774489 out of 63828552 (26.280541347702826%)
+2026-02-02T02:14:00,980  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T02:14:06,661  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T02:19:43,292  WARN PlansTranslatorBasedOnEvents:97 found 16925938 out of 64403584 (26.281049824804782%)
+2026-02-02T02:19:43,292  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T02:19:49,634  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T02:25:27,467  WARN PlansTranslatorBasedOnEvents:97 found 17076785 out of 64978616 (26.280622843675218%)
+2026-02-02T02:25:27,467  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T02:25:32,933  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T02:30:58,528  WARN PlansTranslatorBasedOnEvents:97 found 17227656 out of 65553648 (26.28023996467748%)
+2026-02-02T02:30:58,528  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T02:31:04,179  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T02:36:38,092  WARN PlansTranslatorBasedOnEvents:97 found 17378649 out of 66128680 (26.28004823323254%)
+2026-02-02T02:36:38,092  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T02:36:43,853  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T02:42:14,703  WARN PlansTranslatorBasedOnEvents:97 found 17529415 out of 66703712 (26.279519496606127%)
+2026-02-02T02:42:14,704  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T02:42:20,171  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T02:47:43,330  WARN PlansTranslatorBasedOnEvents:97 found 17680465 out of 67278744 (26.27942192262091%)
+2026-02-02T02:47:43,330  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T02:47:49,006  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T02:53:16,846  WARN PlansTranslatorBasedOnEvents:97 found 17831819 out of 67853776 (26.279774024661503%)
+2026-02-02T02:53:16,846  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T02:53:22,516  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T02:59:17,523  WARN PlansTranslatorBasedOnEvents:97 found 17982473 out of 68428808 (26.27909724804793%)
+2026-02-02T02:59:17,523  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T02:59:23,575  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T03:05:01,779  WARN PlansTranslatorBasedOnEvents:97 found 18132605 out of 69003840 (26.277675271405187%)
+2026-02-02T03:05:01,779  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T03:06:23,656  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T03:14:17,760  WARN PlansTranslatorBasedOnEvents:97 found 18283288 out of 69578872 (26.27706870556913%)
+2026-02-02T03:14:17,760  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T03:14:23,380  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T03:19:50,933  WARN PlansTranslatorBasedOnEvents:97 found 18434139 out of 70153904 (26.27671155692205%)
+2026-02-02T03:19:50,933  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T03:19:56,591  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T03:25:37,892  WARN PlansTranslatorBasedOnEvents:97 found 18585248 out of 70728936 (26.27672498848279%)
+2026-02-02T03:25:37,892  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T03:25:43,687  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T03:31:13,681  WARN PlansTranslatorBasedOnEvents:97 found 18735795 out of 71303968 (26.275950028475275%)
+2026-02-02T03:31:13,681  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T03:31:19,173  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T03:36:51,613  WARN PlansTranslatorBasedOnEvents:97 found 18886014 out of 71879000 (26.274731145397126%)
+2026-02-02T03:36:51,613  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T03:36:57,316  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T03:42:27,604  WARN PlansTranslatorBasedOnEvents:97 found 19037616 out of 72454032 (26.27544040613226%)
+2026-02-02T03:42:27,604  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T03:42:33,613  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T03:47:56,953  WARN PlansTranslatorBasedOnEvents:97 found 19188116 out of 73029064 (26.274629509149946%)
+2026-02-02T03:47:56,953  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T03:48:02,779  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T03:53:30,139  WARN PlansTranslatorBasedOnEvents:97 found 19339029 out of 73604096 (26.27439239251033%)
+2026-02-02T03:53:30,139  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T03:53:35,850  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T03:59:20,268  WARN PlansTranslatorBasedOnEvents:97 found 19489372 out of 74179128 (26.273390541878573%)
+2026-02-02T03:59:20,268  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T03:59:25,940  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T04:05:04,874  WARN PlansTranslatorBasedOnEvents:97 found 19639851 out of 74754160 (26.272586034008008%)
+2026-02-02T04:05:04,874  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T04:06:27,852  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T04:14:28,600  WARN PlansTranslatorBasedOnEvents:97 found 19790923 out of 75329192 (26.272581020117673%)
+2026-02-02T04:14:28,600  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T04:14:34,271  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T04:20:08,526  WARN PlansTranslatorBasedOnEvents:97 found 19942489 out of 75904224 (26.273226902365803%)
+2026-02-02T04:20:08,526  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T04:20:14,063  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T04:25:50,138  WARN PlansTranslatorBasedOnEvents:97 found 20093759 out of 76479256 (26.27347603904515%)
+2026-02-02T04:25:50,138  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T04:25:55,810  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T04:31:23,156  WARN PlansTranslatorBasedOnEvents:97 found 20244327 out of 77054288 (26.272810411277824%)
+2026-02-02T04:31:23,156  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T04:31:28,771  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T04:37:03,559  WARN PlansTranslatorBasedOnEvents:97 found 20394806 out of 77629320 (26.27203999725877%)
+2026-02-02T04:37:03,559  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T04:37:09,260  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T04:42:47,118  WARN PlansTranslatorBasedOnEvents:97 found 20545521 out of 78204352 (26.271582686344615%)
+2026-02-02T04:42:47,118  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T04:42:52,744  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T04:48:30,806  WARN PlansTranslatorBasedOnEvents:97 found 20696305 out of 78779384 (26.27121963786871%)
+2026-02-02T04:48:30,806  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T04:48:36,518  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T04:54:13,995  WARN PlansTranslatorBasedOnEvents:97 found 20847251 out of 79354416 (26.271065998393837%)
+2026-02-02T04:54:13,995  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T04:54:19,797  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T04:59:57,590  WARN PlansTranslatorBasedOnEvents:97 found 20997672 out of 79929448 (26.270257740301172%)
+2026-02-02T04:59:57,590  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T05:00:03,726  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T05:05:31,836  WARN PlansTranslatorBasedOnEvents:97 found 21147975 out of 80504480 (26.26931445305901%)
+2026-02-02T05:05:31,836  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T05:06:54,995  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T05:14:44,172  WARN PlansTranslatorBasedOnEvents:97 found 21298928 out of 81079512 (26.26918622795855%)
+2026-02-02T05:14:44,172  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T05:14:49,897  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T05:20:30,211  WARN PlansTranslatorBasedOnEvents:97 found 21449763 out of 81654544 (26.268915297598134%)
+2026-02-02T05:20:30,211  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T05:20:35,965  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T05:26:11,735  WARN PlansTranslatorBasedOnEvents:97 found 21600647 out of 82229576 (26.26870774573859%)
+2026-02-02T05:26:11,735  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T05:26:17,570  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T05:31:40,777  WARN PlansTranslatorBasedOnEvents:97 found 21752127 out of 82804608 (26.269222843250464%)
+2026-02-02T05:31:40,777  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T05:31:46,261  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T05:37:07,004  WARN PlansTranslatorBasedOnEvents:97 found 21902919 out of 83379640 (26.26890569448369%)
+2026-02-02T05:37:07,004  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T05:37:12,553  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T05:42:42,884  WARN PlansTranslatorBasedOnEvents:97 found 22053732 out of 83954672 (26.26861790371833%)
+2026-02-02T05:42:42,884  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T05:42:48,823  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T05:48:09,679  WARN PlansTranslatorBasedOnEvents:97 found 22204114 out of 84529704 (26.267824148538363%)
+2026-02-02T05:48:09,679  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T05:48:15,786  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T05:53:41,239  WARN PlansTranslatorBasedOnEvents:97 found 22355243 out of 85104736 (26.267918861765814%)
+2026-02-02T05:53:41,239  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T05:53:46,852  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T05:59:24,852  WARN PlansTranslatorBasedOnEvents:97 found 22505935 out of 85679768 (26.267502264945442%)
+2026-02-02T05:59:24,852  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T05:59:30,752  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T06:05:16,076  WARN PlansTranslatorBasedOnEvents:97 found 22657202 out of 86254800 (26.267757852316624%)
+2026-02-02T06:05:16,076  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T06:06:38,289  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T06:14:56,193  WARN PlansTranslatorBasedOnEvents:97 found 22808052 out of 86829832 (26.26752980473347%)
+2026-02-02T06:14:56,193  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T06:15:01,962  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T06:20:36,112  WARN PlansTranslatorBasedOnEvents:97 found 22958609 out of 87404864 (26.26696953615762%)
+2026-02-02T06:20:36,112  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T06:20:41,958  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T06:26:20,878  WARN PlansTranslatorBasedOnEvents:97 found 23109820 out of 87979896 (26.26715994299425%)
+2026-02-02T06:26:20,878  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T06:26:26,663  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T06:31:50,682  WARN PlansTranslatorBasedOnEvents:97 found 23260738 out of 88554928 (26.267017008923546%)
+2026-02-02T06:31:50,682  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T06:31:56,833  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T06:37:31,226  WARN PlansTranslatorBasedOnEvents:97 found 23411495 out of 89129960 (26.26669528405488%)
+2026-02-02T06:37:31,226  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T06:37:36,785  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T06:43:04,446  WARN PlansTranslatorBasedOnEvents:97 found 23563283 out of 89704992 (26.267527006746736%)
+2026-02-02T06:43:04,446  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T06:43:10,191  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T06:48:38,848  WARN PlansTranslatorBasedOnEvents:97 found 23713724 out of 90280024 (26.266856109830012%)
+2026-02-02T06:48:38,848  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T06:48:44,712  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T06:54:17,846  WARN PlansTranslatorBasedOnEvents:97 found 23864141 out of 90855056 (26.26616728957825%)
+2026-02-02T06:54:17,846  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T06:54:23,744  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T06:59:52,896  WARN PlansTranslatorBasedOnEvents:97 found 24014904 out of 91430088 (26.265865564954943%)
+2026-02-02T06:59:52,896  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T06:59:58,551  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T07:05:39,586  WARN PlansTranslatorBasedOnEvents:97 found 24165760 out of 92005120 (26.26566869322055%)
+2026-02-02T07:05:39,586  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T07:07:02,095  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T07:15:09,536  WARN PlansTranslatorBasedOnEvents:97 found 24316159 out of 92580152 (26.264980640774926%)
+2026-02-02T07:15:09,536  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T07:15:15,296  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T07:21:01,164  WARN PlansTranslatorBasedOnEvents:97 found 24466993 out of 93155184 (26.264768045544304%)
+2026-02-02T07:21:01,164  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T07:21:06,897  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T07:26:33,716  WARN PlansTranslatorBasedOnEvents:97 found 24617629 out of 93730216 (26.264346814265316%)
+2026-02-02T07:26:33,716  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T07:26:39,478  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T07:32:16,205  WARN PlansTranslatorBasedOnEvents:97 found 24768588 out of 94305248 (26.26427322475203%)
+2026-02-02T07:32:16,205  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T07:32:21,709  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T07:37:53,373  WARN PlansTranslatorBasedOnEvents:97 found 24919694 out of 94880280 (26.264355459322%)
+2026-02-02T07:37:53,373  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T07:37:59,178  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T07:43:23,174  WARN PlansTranslatorBasedOnEvents:97 found 25071129 out of 95455312 (26.26478136701287%)
+2026-02-02T07:43:23,174  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T07:43:28,922  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T07:48:57,435  WARN PlansTranslatorBasedOnEvents:97 found 25221917 out of 96030344 (26.26452842863918%)
+2026-02-02T07:48:57,435  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T07:49:03,207  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T07:54:41,167  WARN PlansTranslatorBasedOnEvents:97 found 25373128 out of 96605376 (26.26471636526729%)
+2026-02-02T07:54:41,167  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T07:54:47,068  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T08:00:20,944  WARN PlansTranslatorBasedOnEvents:97 found 25523330 out of 97180408 (26.263863802671008%)
+2026-02-02T08:00:20,944  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T08:00:26,569  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T08:06:01,545  WARN PlansTranslatorBasedOnEvents:97 found 25674232 out of 97755440 (26.263737342903884%)
+2026-02-02T08:06:01,545  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T08:07:22,501  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T08:15:07,957  WARN PlansTranslatorBasedOnEvents:97 found 25825146 out of 98330472 (26.263624565943303%)
+2026-02-02T08:15:07,957  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T08:15:13,390  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T08:20:35,202  WARN PlansTranslatorBasedOnEvents:97 found 25976246 out of 98905504 (26.263701158633193%)
+2026-02-02T08:20:35,202  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T08:20:40,648  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T08:26:08,874  WARN PlansTranslatorBasedOnEvents:97 found 26127428 out of 99480536 (26.263859294043208%)
+2026-02-02T08:26:08,874  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T08:26:14,770  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T08:31:43,618  WARN PlansTranslatorBasedOnEvents:97 found 26278255 out of 100055568 (26.263660808961678%)
+2026-02-02T08:31:43,618  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T08:31:49,422  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T08:37:19,332  WARN PlansTranslatorBasedOnEvents:97 found 26429140 out of 100630600 (26.26352222882503%)
+2026-02-02T08:37:19,332  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T08:37:24,968  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T08:42:54,501  WARN PlansTranslatorBasedOnEvents:97 found 26580200 out of 101205632 (26.263558138740738%)
+2026-02-02T08:42:54,501  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T08:43:00,135  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T08:48:45,170  WARN PlansTranslatorBasedOnEvents:97 found 26732157 out of 101780664 (26.264474949780244%)
+2026-02-02T08:48:45,170  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T08:48:50,916  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T08:54:24,468  WARN PlansTranslatorBasedOnEvents:97 found 26883068 out of 102355696 (26.264359533054222%)
+2026-02-02T08:54:24,468  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T08:54:30,597  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T08:59:56,869  WARN PlansTranslatorBasedOnEvents:97 found 27034074 out of 102930728 (26.264337700982743%)
+2026-02-02T08:59:56,869  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T09:00:02,319  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T09:05:47,831  WARN PlansTranslatorBasedOnEvents:97 found 27184963 out of 103505760 (26.264203074302337%)
+2026-02-02T09:05:47,831  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T09:07:09,280  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T09:12:35,220  WARN PlansTranslatorBasedOnEvents:97 found 27335880 out of 104080792 (26.264096837387633%)
+2026-02-02T09:12:35,220  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T09:12:41,010  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T09:15:47,675  WARN PlansTranslatorBasedOnEvents:97 found 27503188 out of 104655824 (26.279653581438527%)
+2026-02-02T09:15:47,675  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T09:15:53,155  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T09:19:03,472  WARN PlansTranslatorBasedOnEvents:97 found 27669741 out of 105230856 (26.29432283626012%)
+2026-02-02T09:19:03,472  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T09:19:09,877  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T09:22:19,761  WARN PlansTranslatorBasedOnEvents:97 found 27835894 out of 105805888 (26.308454591865434%)
+2026-02-02T09:22:19,761  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T09:22:25,465  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T09:25:38,269  WARN PlansTranslatorBasedOnEvents:97 found 28001811 out of 106380920 (26.32221172744135%)
+2026-02-02T09:25:38,269  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T09:25:44,426  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T09:28:57,788  WARN PlansTranslatorBasedOnEvents:97 found 28167593 out of 106955952 (26.335694716643726%)
+2026-02-02T09:28:57,788  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T09:29:03,813  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T09:32:16,640  WARN PlansTranslatorBasedOnEvents:97 found 28333300 out of 107530984 (26.348963755413976%)
+2026-02-02T09:32:16,640  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T09:32:22,220  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T09:35:30,712  WARN PlansTranslatorBasedOnEvents:97 found 28498942 out of 108106016 (26.362031508033745%)
+2026-02-02T09:35:30,712  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T09:35:36,143  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T09:38:44,144  WARN PlansTranslatorBasedOnEvents:97 found 28664522 out of 108681048 (26.374903929892174%)
+2026-02-02T09:38:44,144  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T09:38:49,662  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T09:41:55,952  WARN PlansTranslatorBasedOnEvents:97 found 28830057 out of 109256080 (26.38759966493398%)
+2026-02-02T09:41:55,952  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T09:43:14,671  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T09:48:40,986  WARN PlansTranslatorBasedOnEvents:97 found 28995551 out of 109831112 (26.400125130300054%)
+2026-02-02T09:48:40,986  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T09:48:46,283  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T09:51:52,460  WARN PlansTranslatorBasedOnEvents:97 found 29161031 out of 110406144 (26.412507441614842%)
+2026-02-02T09:51:52,460  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T09:51:58,360  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T09:55:06,052  WARN PlansTranslatorBasedOnEvents:97 found 29326557 out of 110981176 (26.424802887293247%)
+2026-02-02T09:55:06,052  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T09:55:11,824  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T09:58:19,592  WARN PlansTranslatorBasedOnEvents:97 found 29492136 out of 111556208 (26.437019085482003%)
+2026-02-02T09:58:19,592  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T09:58:25,027  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T10:01:30,565  WARN PlansTranslatorBasedOnEvents:97 found 29657709 out of 112131240 (26.44910463845758%)
+2026-02-02T10:01:30,565  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T10:01:36,635  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T10:04:47,437  WARN PlansTranslatorBasedOnEvents:97 found 29823267 out of 112706272 (26.461053560532992%)
+2026-02-02T10:04:47,437  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T10:04:53,265  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T10:08:00,187  WARN PlansTranslatorBasedOnEvents:97 found 29988820 out of 113281304 (26.47287675996385%)
+2026-02-02T10:08:00,187  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T10:08:05,472  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T10:11:15,197  WARN PlansTranslatorBasedOnEvents:97 found 30154341 out of 113856336 (26.484552427543427%)
+2026-02-02T10:11:15,197  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T10:11:21,234  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T10:14:29,917  WARN PlansTranslatorBasedOnEvents:97 found 30319827 out of 114431368 (26.496080165711206%)
+2026-02-02T10:14:29,917  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T10:14:35,897  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T10:17:50,162  WARN PlansTranslatorBasedOnEvents:97 found 30485295 out of 115006400 (26.507476975194425%)
+2026-02-02T10:17:50,162  WARN PlansTranslatorBasedOnEvents:99 (above values may both be at zero for a couple of iterations if multiple plans per agent all have no score)
+2026-02-02T10:19:09,062  WARN PopulationAgentSource:177  Future occurences of this logging statement are suppressed.
+2026-02-02T10:26:19,699  WARN RoutingConfigGroup:403 The first mode routing (= teleported mode) params that are explicitly defined clear the default mode routing (= teleported mode) params.  If you want to avoid this 
+2026-02-02T10:26:19,699  WARN RoutingConfigGroup:404     warning, use clearTeleportedModeParams(true) in code, and "clearDefaultTeleportedModeParams"=true in xml config.
+2026-02-02T10:26:29,021  WARN RoutingConfigGroup:403 The first mode routing (= teleported mode) params that are explicitly defined clear the default mode routing (= teleported mode) params.  If you want to avoid this 
+2026-02-02T10:26:29,021  WARN RoutingConfigGroup:404     warning, use clearTeleportedModeParams(true) in code, and "clearDefaultTeleportedModeParams"=true in xml config.
+2026-02-02T10:26:29,022  WARN ScoringConfigGroup$ReflectiveDelegate:1684 Setting pathSizeLogitBeta different from zero is experimental.  KN, Sep'08
+2026-02-02T10:26:30,257 ERROR CommandRunner:102 Command class org.matsim.application.analysis.pt.PublicTransitAnalysis threw an error.
+java.io.UncheckedIOException: java.io.FileNotFoundException: /home/mprdhm/Documents/matsim-example-project-master/simulation_output/toulouse_20_percent_population_households.xml.gz (Aucun fichier ou dossier de ce nom)
+	at org.matsim.core.utils.io.IOUtils.getInputStream(IOUtils.java:308) ~[matsim-2025.0.jar:?]
+	at org.matsim.core.utils.io.IOUtils.getBufferedReader(IOUtils.java:322) ~[matsim-2025.0.jar:?]
+	at org.matsim.core.utils.io.IOUtils.getBufferedReader(IOUtils.java:333) ~[matsim-2025.0.jar:?]
+	at org.matsim.core.utils.io.IOUtils.getBufferedReader(IOUtils.java:540) ~[matsim-2025.0.jar:?]
+	at org.matsim.core.utils.io.MatsimXmlParser.parse(MatsimXmlParser.java:172) ~[matsim-2025.0.jar:?]
+	at org.matsim.core.scenario.ScenarioLoaderImpl.loadHouseholds(ScenarioLoaderImpl.java:254) ~[matsim-2025.0.jar:?]
+	at org.matsim.core.scenario.ScenarioLoaderImpl.loadScenario(ScenarioLoaderImpl.java:117) ~[matsim-2025.0.jar:?]
+	at org.matsim.core.scenario.ScenarioUtils.loadScenario(ScenarioUtils.java:96) ~[matsim-2025.0.jar:?]
+	at org.matsim.core.scenario.ScenarioUtils.loadScenario(ScenarioUtils.java:84) ~[matsim-2025.0.jar:?]
+	at org.matsim.application.analysis.pt.PublicTransitAnalysis.call(PublicTransitAnalysis.java:82) ~[application-2025.0.jar:?]
+	at org.matsim.application.analysis.pt.PublicTransitAnalysis.call(PublicTransitAnalysis.java:50) ~[application-2025.0.jar:?]
+	at picocli.CommandLine.executeUserObject(CommandLine.java:2045) ~[picocli-4.7.6.jar:4.7.6]
+	at picocli.CommandLine.access$1500(CommandLine.java:148) ~[picocli-4.7.6.jar:4.7.6]
+	at picocli.CommandLine$RunLast.executeUserObjectOfLastSubcommandWithSameParent(CommandLine.java:2465) ~[picocli-4.7.6.jar:4.7.6]
+	at picocli.CommandLine$RunLast.handle(CommandLine.java:2457) ~[picocli-4.7.6.jar:4.7.6]
+	at picocli.CommandLine$RunLast.handle(CommandLine.java:2419) ~[picocli-4.7.6.jar:4.7.6]
+	at picocli.CommandLine$AbstractParseResultHandler.execute(CommandLine.java:2277) ~[picocli-4.7.6.jar:4.7.6]
+	at picocli.CommandLine$RunLast.execute(CommandLine.java:2421) ~[picocli-4.7.6.jar:4.7.6]
+	at picocli.CommandLine.execute(CommandLine.java:2174) ~[picocli-4.7.6.jar:4.7.6]
+	at org.matsim.application.MATSimAppCommand.execute(MATSimAppCommand.java:38) ~[matsim-2025.0.jar:?]
+	at org.matsim.application.CommandRunner.runCommand(CommandRunner.java:117) ~[matsim-2025.0.jar:?]
+	at org.matsim.application.CommandRunner.run(CommandRunner.java:97) [matsim-2025.0.jar:?]
+	at org.matsim.simwrapper.SimWrapper.run(SimWrapper.java:239) [simwrapper-2025.0.jar:?]
+	at org.matsim.simwrapper.SimWrapper.run(SimWrapper.java:191) [simwrapper-2025.0.jar:?]
+	at org.matsim.simwrapper.SimWrapperListener.notifyShutdown(SimWrapperListener.java:143) [simwrapper-2025.0.jar:?]
+	at org.matsim.core.controler.ControlerListenerManagerImpl.fireControlerShutdownEvent(ControlerListenerManagerImpl.java:136) [matsim-2025.0.jar:?]
+	at org.matsim.core.controler.AbstractController$1.shutdown(AbstractController.java:89) [matsim-2025.0.jar:?]
+	at org.matsim.core.controler.MatsimRuntimeModifications.run(MatsimRuntimeModifications.java:88) [matsim-2025.0.jar:?]
+	at org.matsim.core.controler.MatsimRuntimeModifications.run(MatsimRuntimeModifications.java:53) [matsim-2025.0.jar:?]
+	at org.matsim.core.controler.AbstractController.run(AbstractController.java:92) [matsim-2025.0.jar:?]
+	at org.matsim.core.controler.NewControler.run(NewControler.java:83) [matsim-2025.0.jar:?]
+	at org.matsim.core.controler.Controler.run(Controler.java:259) [matsim-2025.0.jar:?]
+	at org.matsim.project.RunMatsimToulouse.main(RunMatsimToulouse.java:106) [classes/:?]
+Caused by: java.io.FileNotFoundException: /home/mprdhm/Documents/matsim-example-project-master/simulation_output/toulouse_20_percent_population_households.xml.gz (Aucun fichier ou dossier de ce nom)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:106) ~[?:?]
+	at java.base/sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:84) ~[?:?]
+	at java.base/sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:180) ~[?:?]
+	at java.base/java.net.URL.openStream(URL.java:1325) ~[?:?]
+	at org.matsim.core.utils.io.IOUtils.getInputStream(IOUtils.java:283) ~[matsim-2025.0.jar:?]
+	... 32 more
+2026-02-02T10:28:29,841  WARN MGC:179 Assuming that coordinates are in longitude first notation, i.e. (longitude, latitude).
+2026-02-02T10:28:30,201  WARN MGC:179 Assuming that coordinates are in longitude first notation, i.e. (longitude, latitude).
+2026-02-02T10:28:30,795 ERROR CommandRunner:102 Command class org.matsim.application.prepare.network.CreateAvroNetwork threw an error.
+org.apache.avro.SchemaParseException: Illegal character in: osm:way:highway
+	at org.apache.avro.Schema.validateName(Schema.java:1693) ~[avro-1.12.0.jar:1.12.0]
+	at org.apache.avro.Schema$Field.<init>(Schema.java:575) ~[avro-1.12.0.jar:1.12.0]
+	at org.apache.avro.Schema$Field.<init>(Schema.java:606) ~[avro-1.12.0.jar:1.12.0]
+	at org.matsim.application.prepare.network.CreateAvroNetwork.createFields(CreateAvroNetwork.java:321) ~[application-2025.0.jar:?]
+	at org.matsim.application.prepare.network.CreateAvroNetwork.convert(CreateAvroNetwork.java:209) ~[application-2025.0.jar:?]
+	at org.matsim.application.prepare.network.CreateAvroNetwork.call(CreateAvroNetwork.java:119) ~[application-2025.0.jar:?]
+	at org.matsim.application.prepare.network.CreateAvroNetwork.call(CreateAvroNetwork.java:48) ~[application-2025.0.jar:?]
+	at picocli.CommandLine.executeUserObject(CommandLine.java:2045) ~[picocli-4.7.6.jar:4.7.6]
+	at picocli.CommandLine.access$1500(CommandLine.java:148) ~[picocli-4.7.6.jar:4.7.6]
+	at picocli.CommandLine$RunLast.executeUserObjectOfLastSubcommandWithSameParent(CommandLine.java:2465) ~[picocli-4.7.6.jar:4.7.6]
+	at picocli.CommandLine$RunLast.handle(CommandLine.java:2457) ~[picocli-4.7.6.jar:4.7.6]
+	at picocli.CommandLine$RunLast.handle(CommandLine.java:2419) ~[picocli-4.7.6.jar:4.7.6]
+	at picocli.CommandLine$AbstractParseResultHandler.execute(CommandLine.java:2277) ~[picocli-4.7.6.jar:4.7.6]
+	at picocli.CommandLine$RunLast.execute(CommandLine.java:2421) ~[picocli-4.7.6.jar:4.7.6]
+	at picocli.CommandLine.execute(CommandLine.java:2174) ~[picocli-4.7.6.jar:4.7.6]
+	at org.matsim.application.MATSimAppCommand.execute(MATSimAppCommand.java:38) ~[matsim-2025.0.jar:?]
+	at org.matsim.application.CommandRunner.runCommand(CommandRunner.java:117) ~[matsim-2025.0.jar:?]
+	at org.matsim.application.CommandRunner.run(CommandRunner.java:97) [matsim-2025.0.jar:?]
+	at org.matsim.simwrapper.SimWrapper.run(SimWrapper.java:239) [simwrapper-2025.0.jar:?]
+	at org.matsim.simwrapper.SimWrapper.run(SimWrapper.java:191) [simwrapper-2025.0.jar:?]
+	at org.matsim.simwrapper.SimWrapperListener.notifyShutdown(SimWrapperListener.java:143) [simwrapper-2025.0.jar:?]
+	at org.matsim.core.controler.ControlerListenerManagerImpl.fireControlerShutdownEvent(ControlerListenerManagerImpl.java:136) [matsim-2025.0.jar:?]
+	at org.matsim.core.controler.AbstractController$1.shutdown(AbstractController.java:89) [matsim-2025.0.jar:?]
+	at org.matsim.core.controler.MatsimRuntimeModifications.run(MatsimRuntimeModifications.java:88) [matsim-2025.0.jar:?]
+	at org.matsim.core.controler.MatsimRuntimeModifications.run(MatsimRuntimeModifications.java:53) [matsim-2025.0.jar:?]
+	at org.matsim.core.controler.AbstractController.run(AbstractController.java:92) [matsim-2025.0.jar:?]
+	at org.matsim.core.controler.NewControler.run(NewControler.java:83) [matsim-2025.0.jar:?]
+	at org.matsim.core.controler.Controler.run(Controler.java:259) [matsim-2025.0.jar:?]
+	at org.matsim.project.RunMatsimToulouse.main(RunMatsimToulouse.java:106) [classes/:?]
+2026-02-02T10:35:08,494  WARN MGC:179 Assuming that coordinates are in longitude first notation, i.e. (longitude, latitude).
+2026-02-02T10:35:08,494  WARN MGC:179 Assuming that coordinates are in longitude first notation, i.e. (longitude, latitude).

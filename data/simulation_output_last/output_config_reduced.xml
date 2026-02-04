@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE config SYSTEM "http://www.matsim.org/files/dtd/config_v2.dtd">
+<config>
+	<module name="cadytsCar" >
+		<param name="calibratedLines" value="" />
+		<param name="calibratedLinks" value="139927,182314,21423,182315,204666,126605,224284,34623,224283,34622,224282,224281,71914,32208,71915,126608,217977,24706,24705,136302,111344,139934,111343,75050,30374,92604,17268,109376,133045,93735,109377,133046,200099,2445,2564,10990,101764,10991,101765,30369,10874,45600,44752,218983,121491,206520,39281,121490,30596,56324,30595,10769,123303,193434,30597,76035,123301,123302,193437,123300,16274,39278,39279,66019,44509,187089,10738,192678,201083,192679,10739,134561,190379,201082,835,190378,10853,133599,19797,69534,19796,19799,43401,102690,19793,93988,138922,103300,103784,133597,158878,123010,142190,55490,142192,55491,150924,123009,10988,127966,171725,171724,3445,127963,102443,156463,198083,136632,138932,136631,138931,69309,209940,28110,58657,49171,59745,58658,127954,29445,59744,59743,80345,102413,102412,102415,102414,618,619,96913,157444,177170,127951,207411,207412,57699,862,126612,863,126610,866,867,182869,16269,125408,34912,46446,10491,103330,10490,207780,207781,205004,107929,14859,22350,88644,103325,88642,76429,113129,186525,47885,99764,99763,169055,134092,89849,53433,55972,10385,193172,10387,52588,113130,196686,196685,217487,44487,5201,44486,63125,63126,208413,95074,212906,174667,212905,104875,84171,104894,104893,209634,57811,76430,151438,76431,545,53338,56728,56729,112383,85291,159577,85292,218356,181028,218355,5465,222731,3166,146017,212928,11428,146018,4488,156077,136108,160315,5351,21472,96057,126121,167075,209536,126120,96053,209537,193015,130928,21470,70918,70917,94901,113038,136479,181001,11647,13826,195529,128889,45891,136480,5493,164814,5494,90893,5495,163844,218265,17192,75158,147261,147260,185851,185850,98133,56401,10689,11892,6337,11891,6336,10684,150540,10685,48107,155971,72456,48106,12275,201718,103299,97635,63501,209688,63502,209687,63503,63504,223623,223624,59248,6229,39756,120503,151381,219134,187697,187698,74640,134809,35020,65816,199319,141210,141211,192800,141218,141219,12490,134810,134811,49417,47115,49778,12492,157931,49776,49775,222673,164342,164343,164341,163381,163382,136,137,167734,87612,167735,12255,141108,174385,94014,142,143,142201,54940,175465,9542,109757,163437,163438,208154,154843,24691,13445,16953,172265,152531,13443,52658,203706,209378,109760,209379,116042,213503,167902,55813,167903,109758,109759,213502,98429,110962,55819,201539,210131,98546,210130,220297,35692,201537,184114,115065,15606,201540,24792,85355,51468,85354,177850,120888,90817,210143,107688,210142,62004,132604,223311,149049,223312,224769,224768,132606,186542,115054,115055,150145,46451,150143,211464,150141,17563,93313,211480,214991,182955,183922,28215,28216,136815,148911,166594,80364,180659,155202,44931,108118,134889,155201,44930,71894,164036,44932,44929,223582,216814,216815,213544,132597,132596,132595,156326,154148,41652,132598,28677,28678,136839,204972,123952,204971,24074,123951,122862,122861,182937,216827,30406,182938,134781,134782,30407,118493,134787,15373,15372,134789,193836,29416,203768,185097,200256,203767,224207,44913,44912,169620,194803,201471,143258,133580,134790,30637,31607,31606,120315,121526,31601,31600,155530,133622,155531,214790,188219,131323,214791,205839,188217,203657,165573,187244,165572,103805,199109,205840,188220,168722,59323,178528,178525,178526,15588,60791,102956,155883,30607,72540,57390,166892,204640,4818,4819,14269,30615,30614,178513,177663,108126,108127,108128,203315,63718,146834,30604,199320,102812,187239,49689,49688,108136,70262,121570,187238,213490,70263,133658,187232,187233,204665,168972,204664,187240,58268,58267,1320,81142,81143,213488,155791" />
+		<!-- The last second of the day to be used for calibration.  hh:mm:ss format -->
+		<param name="endTime" value="86400" />
+		<param name="freezeIteration" value="0" />
+		<param name="minFlowStddevVehH" value="10.0" />
+		<param name="preparatoryIterations" value="1" />
+		<param name="regressionInertia" value="0.8" />
+		<!-- The first second of the day to be used for calibration.  hh:mm:ss format -->
+		<param name="startTime" value="0" />
+		<!-- Length of time bin for which counts are aggregated.  IN SECONDS!!!!  Default is 3600. -->
+		<param name="timeBinSize" value="3600" />
+		<param name="useBruteForce" value="false" />
+		<param name="varianceScale" value="3.0" />
+		<param name="writeAnalysisFile" value="true" />
+	</module>
+	<module name="controller" >
+		<!-- Default=1000. Last Iteration of a simulation. -->
+		<param name="lastIteration" value="200" />
+		<param name="outputDirectory" value="simulation_output" />
+		<!-- Possible values: failIfDirectoryExists,overwriteExistingFiles,deleteDirectoryIfExists -->
+		<param name="overwriteFiles" value="deleteDirectoryIfExists" />
+		<!-- iterationNumber % writeEventsInterval == 0 defines in which iterations events are written to a file. `0' disables events writing completely. -->
+		<param name="writeEventsInterval" value="10" />
+		<!-- iterationNumber % writePlansInterval == 0 defines (hopefully) in which iterations plans are written to a file. `0' disables plans writing completely.  Some plans in early iterations are always written -->
+		<param name="writePlansInterval" value="10" />
+	</module>
+	<module name="counts" >
+		<!-- factor by which to re-scale the simulated values.  necessary when simulation runs with something different from 100%.  needs to be adapted manually -->
+		<param name="countsScaleFactor" value="5.0" />
+		<!-- If true, link counts from legs performed on modes not included in the 'analyzedModes' parameter are ignored. -->
+		<param name="filterModes" value="true" />
+		<!-- input file name to counts package -->
+		<param name="inputCountsFile" value="toulouse_counts_scaled.xml" />
+	</module>
+	<module name="facilities" >
+		<param name="inputFacilitiesFile" value="toulouse_20_percent_population_facilities.xml.gz" />
+	</module>
+	<module name="global" >
+		<param name="coordinateSystem" value="EPSG:2154" />
+		<!-- "global" number of threads.  This number is used, e.g., for replanning, but NOT in QSim.  This can typically be set to as many cores as you have available, or possibly even slightly more. -->
+		<param name="numberOfThreads" value="4" />
+		<param name="randomSeed" value="1234" />
+	</module>
+	<module name="households" >
+		<param name="inputFile" value="toulouse_20_percent_population_households.xml.gz" />
+	</module>
+	<module name="network" >
+		<param name="inputNetworkFile" value="toulouse_20_percent_population_network.xml.gz" />
+	</module>
+	<module name="plans" >
+		<param name="inputPlansFile" value="toulouse_20_percent_population_population.xml.gz" />
+		<!-- Defines how departure times are interpreted in rerouting applications. If set to 'ignoreDelays', the departure time of a trip when routing along a plan will always be the nominal (plan-based) activity end time. If set to 'shiftActivityEndTimes', routing along a plan will accumulate travel times and shift activity end times if necessary -->
+		<param name="tripDurationHandling" value="shiftActivityEndTimes" />
+	</module>
+	<module name="qsim" >
+		<param name="endTime" value="30:00:00" />
+		<param name="flowCapacityFactor" value="0.2" />
+		<!-- Number of threads used for the QSim.  Note that this setting is independent from the "global" threads setting.  In contrast to earlier versions, the non-parallel special version is no longer there. -->
+		<param name="numberOfThreads" value="4" />
+		<param name="storageCapacityFactor" value="0.2" />
+		<!-- If vehicles should all be the same default vehicle, or come from the vehicles file, or something else.  Possible values:  defaultVehicle modeVehicleTypesFromVehiclesData fromVehiclesData -->
+		<param name="vehiclesSource" value="fromVehiclesData" />
+	</module>
+	<module name="replanning" >
+		<!-- fraction of iterations where innovative strategies are switched off.  Something like 0.8 should be good.  E.g. if you run from iteration 400 to iteration 500, innovation is switched off at iteration 480. If the ReplanningAnnealer is used, it will also be switched off. -->
+		<param name="fractionOfIterationsToDisableInnovation" value="0.9" />
+		<parameterset type="strategysettings" >
+			<!-- strategyName of strategy.  Possible default names: SelectRandom BestScore KeepLastSelected ChangeExpBeta SelectExpBeta SelectPathSizeLogit      (selectors), ReRouteTimeAllocationMutatorTimeAllocationMutator_ReRouteChangeSingleTripModeChangeTripModeSubtourModeChoice (innovative strategies). -->
+			<param name="strategyName" value="ChangeExpBeta" />
+			<!-- weight of a strategy: for each agent, a strategy will be selected with a probability proportional to its weight -->
+			<param name="weight" value="0.8" />
+		</parameterset>
+		<parameterset type="strategysettings" >
+			<param name="strategyName" value="ReRoute" />
+			<param name="weight" value="0.2" />
+		</parameterset>
+	</module>
+	<module name="routing" >
+		<!-- Defines how access and egress to main mode is simulated. Either of [none, accessEgressModeToLink, walkConstantTimeToLink, accessEgressModeToLinkPlusTimeConstant], Current default=none which means no access or egress trips are simulated. -->
+		<param name="accessEgressType" value="accessEgressModeToLink" />
+		<!-- All the modes for which the router is supposed to generate network routes (like car) -->
+		<param name="networkModes" value="car,car_passenger,truck" />
+		<!-- strength of the randomness for the utility of money in routing under toll.  Leads to Pareto-optimal route with randomly drawn money-vs-other-attributes tradeoff. Technically the width parameter of a log-normal distribution. 3.0 seems to be a good value.  -->
+		<param name="routingRandomness" value="0.0" />
+		<parameterset type="teleportedModeParameters" >
+			<param name="beelineDistanceFactor" value="1.0" />
+			<param name="mode" value="outside" />
+			<!-- Speed for a teleported mode. Travel time = (<beeline distance> * beelineDistanceFactor) / teleportedModeSpeed. Insert a line like this for every such mode. -->
+			<param name="teleportedModeSpeed" value="1000.0" />
+		</parameterset>
+		<parameterset type="teleportedModeParameters" >
+			<param name="beelineDistanceFactor" value="1.4" />
+			<param name="mode" value="bike" />
+			<param name="teleportedModeSpeed" value="3.1" />
+		</parameterset>
+		<parameterset type="teleportedModeParameters" >
+			<param name="mode" value="walk" />
+			<param name="teleportedModeSpeed" value="1.2" />
+		</parameterset>
+	</module>
+	<module name="scoring" >
+		<parameterset type="scoringParameters" >
+			<param name="marginalUtilityOfMoney" value="0.0" />
+			<param name="waitingPt" value="-1.0" />
+			<parameterset type="activityParams" >
+				<param name="activityType" value="dummy" />
+				<!-- typical duration of activity.  needs to be defined and non-zero.  in sec. -->
+				<param name="typicalDuration" value="02:00:00" />
+			</parameterset>
+			<parameterset type="activityParams" >
+				<param name="activityType" value="car interaction" />
+				<param name="typicalDuration" value="undefined" />
+			</parameterset>
+			<parameterset type="activityParams" >
+				<param name="activityType" value="pt interaction" />
+				<param name="typicalDuration" value="undefined" />
+			</parameterset>
+			<parameterset type="activityParams" >
+				<param name="activityType" value="bike interaction" />
+				<param name="typicalDuration" value="undefined" />
+			</parameterset>
+			<parameterset type="activityParams" >
+				<param name="activityType" value="drt interaction" />
+				<param name="typicalDuration" value="undefined" />
+			</parameterset>
+			<parameterset type="activityParams" >
+				<param name="activityType" value="taxi interaction" />
+				<param name="typicalDuration" value="undefined" />
+			</parameterset>
+			<parameterset type="activityParams" >
+				<param name="activityType" value="other interaction" />
+				<param name="typicalDuration" value="undefined" />
+			</parameterset>
+			<parameterset type="activityParams" >
+				<param name="activityType" value="walk interaction" />
+				<param name="typicalDuration" value="undefined" />
+			</parameterset>
+			<parameterset type="activityParams" >
+				<param name="activityType" value="home" />
+				<param name="scoringThisActivityAtAll" value="false" />
+				<param name="typicalDuration" value="undefined" />
+			</parameterset>
+			<parameterset type="activityParams" >
+				<param name="activityType" value="work" />
+				<param name="scoringThisActivityAtAll" value="false" />
+				<param name="typicalDuration" value="undefined" />
+			</parameterset>
+			<parameterset type="activityParams" >
+				<param name="activityType" value="education" />
+				<param name="scoringThisActivityAtAll" value="false" />
+				<param name="typicalDuration" value="undefined" />
+			</parameterset>
+			<parameterset type="activityParams" >
+				<param name="activityType" value="shop" />
+				<param name="scoringThisActivityAtAll" value="false" />
+				<param name="typicalDuration" value="undefined" />
+			</parameterset>
+			<parameterset type="activityParams" >
+				<param name="activityType" value="leisure" />
+				<param name="scoringThisActivityAtAll" value="false" />
+				<param name="typicalDuration" value="undefined" />
+			</parameterset>
+			<parameterset type="activityParams" >
+				<param name="activityType" value="other" />
+				<param name="scoringThisActivityAtAll" value="false" />
+				<param name="typicalDuration" value="undefined" />
+			</parameterset>
+			<parameterset type="activityParams" >
+				<param name="activityType" value="freight_loading" />
+				<param name="scoringThisActivityAtAll" value="false" />
+				<param name="typicalDuration" value="undefined" />
+			</parameterset>
+			<parameterset type="activityParams" >
+				<param name="activityType" value="freight_unloading" />
+				<param name="scoringThisActivityAtAll" value="false" />
+				<param name="typicalDuration" value="undefined" />
+			</parameterset>
+			<parameterset type="activityParams" >
+				<param name="activityType" value="outside" />
+				<param name="scoringThisActivityAtAll" value="false" />
+				<param name="typicalDuration" value="undefined" />
+			</parameterset>
+			<parameterset type="activityParams" >
+				<param name="activityType" value="car_passenger interaction" />
+				<param name="scoringThisActivityAtAll" value="false" />
+				<param name="typicalDuration" value="undefined" />
+			</parameterset>
+			<parameterset type="activityParams" >
+				<param name="activityType" value="truck interaction" />
+				<param name="scoringThisActivityAtAll" value="false" />
+				<param name="typicalDuration" value="undefined" />
+			</parameterset>
+			<parameterset type="activityParams" >
+				<param name="activityType" value="ride interaction" />
+				<param name="scoringThisActivityAtAll" value="false" />
+				<param name="typicalDuration" value="undefined" />
+			</parameterset>
+			<parameterset type="activityParams" >
+				<param name="activityType" value="outside interaction" />
+				<param name="scoringThisActivityAtAll" value="false" />
+				<param name="typicalDuration" value="undefined" />
+			</parameterset>
+			<parameterset type="modeParams" >
+				<!-- [utils/hr] additional marginal utility of traveling.  normally negative.  this comes on top of the opportunity cost of time -->
+				<param name="marginalUtilityOfTraveling_util_hr" value="-1.0" />
+				<param name="mode" value="car" />
+			</parameterset>
+			<parameterset type="modeParams" >
+				<param name="marginalUtilityOfTraveling_util_hr" value="-1.0" />
+				<param name="mode" value="pt" />
+			</parameterset>
+			<parameterset type="modeParams" >
+				<param name="marginalUtilityOfTraveling_util_hr" value="-1.0" />
+				<param name="mode" value="walk" />
+			</parameterset>
+			<parameterset type="modeParams" >
+				<param name="marginalUtilityOfTraveling_util_hr" value="-1.0" />
+				<param name="mode" value="bike" />
+			</parameterset>
+			<parameterset type="modeParams" >
+				<param name="mode" value="ride" />
+			</parameterset>
+			<parameterset type="modeParams" >
+				<param name="mode" value="other" />
+			</parameterset>
+			<parameterset type="modeParams" >
+				<param name="marginalUtilityOfTraveling_util_hr" value="-1.0" />
+				<param name="mode" value="car_passenger" />
+			</parameterset>
+			<parameterset type="modeParams" >
+				<param name="marginalUtilityOfTraveling_util_hr" value="-1.0" />
+				<param name="mode" value="truck" />
+			</parameterset>
+			<parameterset type="modeParams" >
+				<param name="marginalUtilityOfTraveling_util_hr" value="-1.0" />
+				<param name="mode" value="outside" />
+			</parameterset>
+		</parameterset>
+	</module>
+	<module name="simwrapper" >
+		<!-- Whether default dashboards are loaded via SPI. -->
+		<param name="defaultDashboards" value="enabled" />
+		<!-- Set of simple class names or fully qualified class names of dashboards to exclude -->
+		<param name="exclude" value="" />
+		<!-- Set of simple class names or fully qualified class names of dashboards to include. Any none included dashboard will be excluded. -->
+		<param name="include" value="" />
+		<!-- Set of packages to scan for dashboard provider classes. -->
+		<param name="packages" value="" />
+		<!-- Sample size of the run, which may be required by certain analysis functions. -->
+		<param name="sampleSize" value="0.2" />
+		<parameterset type="params" >
+			<!-- Name of the context, empty string means default context. -->
+			<param name="context" value="all" />
+		</parameterset>
+	</module>
+	<module name="swissRailRaptor" >
+		<!-- Sets whether intermodal access and egress modes are selected by least cost (default) or randomly chosen out of the available access / egress modes. -->
+		<param name="intermodalAccessEgressModeSelection" value="CalcLeastCostModePerStop" />
+		<param name="intermodalLegOnlyHandling" value="forbid" />
+		<!-- Possible values: Default,Individual -->
+		<param name="scoringParameters" value="Default" />
+		<!-- Defines whether all potential transfers are precomputed at the beginning of the simulation (Initial) or whether they are constructed on-demand when needed (Adaptive). The former incurs potentially long up-front caclulations, but quicker routing. The latter avoids any initial computation, but may require longer routing time. -->
+		<param name="transferCalculation" value="Initial" />
+		<param name="transferPenaltyBaseCost" value="0.0" />
+		<param name="transferPenaltyCostPerTravelTimeHour" value="0.0" />
+		<param name="transferPenaltyMaxCost" value="Infinity" />
+		<param name="transferPenaltyMinCost" value="-Infinity" />
+		<!-- time deducted from transfer walk leg during transfers between pt legs in order to avoid missing a vehicle by a few seconds due to delays. -->
+		<param name="transferWalkMargin" value="5.0" />
+		<!-- If true, SwissRailRaptor tries to detect when agents cannot board a vehicle in the previous iteration because it is already full and tries to find an alternative route instead. -->
+		<param name="useCapacityConstraints" value="false" />
+		<param name="useIntermodalAccessEgress" value="false" />
+		<param name="useModeMappingForPassengers" value="false" />
+		<param name="useRangeQuery" value="false" />
+	</module>
+	<module name="transit" >
+		<!-- Input file containing the transit schedule to be simulated. -->
+		<param name="transitScheduleFile" value="toulouse_20_percent_population_transit_schedule.xml.gz" />
+		<!-- Set this parameter to true if transit should be simulated, false if not. -->
+		<param name="useTransit" value="true" />
+		<!-- Input file containing the vehicles used by the departures in the transit schedule. -->
+		<param name="vehiclesFile" value="toulouse_20_percent_population_transit_vehicles.xml.gz" />
+	</module>
+	<module name="travelTimeCalculator" >
+		<!-- (only for backwards compatibility; only used if separateModes==false && + filterModes==true)  Transport modes that will be respected by the travel time collector. 'car' is default which includes also buses from the pt simulation module. -->
+		<param name="analyzedModes" value="car,truck,car_passenger" />
+		<!-- (only for backwards compatiblity; only used if separateModes==false)  Only modes included in analyzedModes are included. -->
+		<param name="filterModes" value="true" />
+		<!-- (only for backwards compatibility) If false, link travel times are measured and aggregated over all vehicles using the link. -->
+		<param name="separateModes" value="false" />
+	</module>
+	<module name="vehicles" >
+		<param name="vehiclesFile" value="toulouse_20_percent_population_vehicles.xml.gz" />
+	</module>
+
+</config>

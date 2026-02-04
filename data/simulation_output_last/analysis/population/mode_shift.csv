@@ -1,0 +1,7 @@
+original_mode,main_mode,Count [trip_id]
+car,car,557222.0
+car_passenger,car_passenger,59526.0
+walk,walk,159613.0
+pt,pt,67751.0
+bike,bike,29062.0
+pt,walk,1131.0
